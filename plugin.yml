@@ -1,0 +1,7 @@
+name: AuctionHouse
+main: me.migueleb.com.AuctionHouseMain
+version: 1.0
+api-version: 1.8
+commands:
+  auctionhouse:
+    description: Casa de leilões para vender/comprar itens.
